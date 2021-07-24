@@ -1,5 +1,7 @@
 Esta es una prueba
 
-vamos con git
+vamos con git a aprender
 
-vamos por otra linea mas
+vamos por otra linea mas en este aprendizaje
+
+esta es la ultima linea
