@@ -1,8 +1,14 @@
-Este es mi primer commit y es violeta
+Este es mi primer commit y es verde
 Escribi la primera linea
+<<<<<<< HEAD
 <<<<<<< HEAD
 Este es mi primer commit y es verde
 =======
 Este es mi primer commit y es amarillo
 >>>>>>> master
 Escribi la segunda linea
+=======
+Este es mi segundo  commit y es azul
+Escribi la segunda linea
+Este es mi tercer commit
+>>>>>>> master
